@@ -1,0 +1,14 @@
+somaidade = 0
+cadastro = [{'nome': 'haiko', 'sexo': '1', 'idade': 22}, {'nome': 'marcos', 'sexo': '2', 'idade': 99}]
+
+
+somaidade + = cadastro[c]['idade']
+len(cadastro) = 2 
+
+
+len('haiko') = 5
+
+len('ANA') = 3 
+
+{'nome': 'haiko', 'sexo': '1', 'idade': 22}
+{'nome': 'marcos', 'sexo': '2', 'idade': 99}
